@@ -3,10 +3,9 @@
 
 **`Helping by Creating (Developer / Traveler / Gymer)`**
 
-I’m an indie **full-stack developer** passionate about building real-world solutions from the ground up — from planning and design to writing scalable, clean code. My projects range from web apps to APIs and enterprise-level systems, all created with a focus on problem-solving and continuous learning.  
+I’m a **junior full-stack developer** passionate about building real-world solutions from the ground up — from planning and design to writing scalable, clean code. My projects range from web apps to APIs and enterprise-level systems, all created with a focus on problem-solving and continuous learning.  
 
-Outside of coding, I’m big on **fitness** 🏋️ (lifting, running, and meal prep keep me sharp) and love exploring new places with my girlfriend in our **truck camper** 🚐🌲.  
-This mix of tech, travel, and lifestyle fuels my creativity and keeps me grounded.  
+When I’m not coding, you’ll find me running and lifting weights 🏋️, and exploring new horizons. This blend of tech, fitness, and adventure keeps my creativity flowing and my focus grounded.
 
    <p align="left">
       <a href="https://github.com/MasonScarby?tab=followers">
