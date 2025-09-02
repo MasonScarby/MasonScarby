@@ -39,24 +39,44 @@ I'm an indie full-stack developer and content creator building my version of the
 #
 
 ### 📺 Latest YouTube Videos
+## 🚀 Projects
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Portable Workstation](https://ytcards.demolab.com/?id=s3uqGfDc8P8&title=Portable+Workstation&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "Portable Workstation")](https://www.youtube.com/shorts/s3uqGfDc8P8)
-[![Why Everyone's Switching to Rust (And Why You Shouldn't)](https://ytcards.demolab.com/?id=meEXag1XCFw&title=Why+Everyone%27s+Switching+to+Rust+%28And+Why+You+Shouldn%27t%29&lang=en&timestamp=1755619274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=884 "Why Everyone's Switching to Rust (And Why You Shouldn't)")](https://www.youtube.com/watch?v=meEXag1XCFw)
-[![AI Has Changed How We Build Software // What You Need to Know](https://ytcards.demolab.com/?id=3VQhdXcQ5qI&title=AI+Has+Changed+How+We+Build+Software+%2F%2F+What+You+Need+to+Know&lang=en&timestamp=1755026101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1710 "AI Has Changed How We Build Software // What You Need to Know")](https://www.youtube.com/watch?v=3VQhdXcQ5qI)
-[![Everything You NEED to Know About TECH DEBT](https://ytcards.demolab.com/?id=ukgmp6uxQJc&title=Everything+You+NEED+to+Know+About+TECH+DEBT&lang=en&timestamp=1753375920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1533 "Everything You NEED to Know About TECH DEBT")](https://www.youtube.com/watch?v=ukgmp6uxQJc)
-[![My New PC // I have way too many.](https://ytcards.demolab.com/?id=m5rvhYKrIM4&title=My+New+PC+%2F%2F+I+have+way+too+many.&lang=en&timestamp=1753205655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=45 "My New PC // I have way too many.")](https://www.youtube.com/shorts/m5rvhYKrIM4)
-[![My Linux Ubuntu Setup for Software Development](https://ytcards.demolab.com/?id=T3sax7PB0vw&title=My+Linux+Ubuntu+Setup+for+Software+Development&lang=en&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "My Linux Ubuntu Setup for Software Development")](https://www.youtube.com/watch?v=T3sax7PB0vw)
-<!-- END YOUTUBE-CARDS -->
+### 🛒 E-Commerce Website
+Full-stack e-commerce platform built with **React.js**, **Flask**, and **MongoDB**.  
+Features include user authentication, role-based access, Stripe payments, and an admin dashboard.  
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[🔗 View Repository](https://github.com/yourusername/ecommerce-project)
 
-#
+---
+
+### 📦 Auto-Palletization System
+C# .NET application that automates pallet creation and optimizes warehouse logistics.  
+Logic based on customer-specific requirements, with dynamic SQL stored procedures for efficiency.  
+
+[🔗 View Repository](https://github.com/yourusername/palletization-project)
+
+---
+
+### 📊 Money Management API
+RESTful API for managing financial accounts and transactions.  
+Includes account transfers, balance tracking, and integration with inventory management APIs.  
+
+[🔗 View Repository](https://github.com/yourusername/money-management-api)
+
+---
+
+### 🏥 Patient Management System
+Web app built in **Laravel** for handling patient records, caregiver roles, and supervisor logs.  
+Implements secure authentication, password resets, and role-based dashboards.  
+
+[🔗 View Repository](https://github.com/yourusername/patient-management-system)
+
+---
+
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-![MasonScarby's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasonScarby&hide=contribs,prs)
+![MasonScarby's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasonScarby&show_icons=true&theme=gruvbox)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
