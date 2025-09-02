@@ -7,13 +7,7 @@ I’m a **junior full-stack developer** passionate about building real-world sol
 
 When I’m not coding, you’ll find me running and lifting weights 🏋️, and exploring new horizons🌄. This blend of tech, fitness, and adventure keeps my creativity flowing and my focus grounded.
 
-   <p align="left">
-      <a href="https://github.com/MasonScarby?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MasonScarby?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/MasonScarby?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MasonScarby?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
+  
 
 ### 🧰 Languages and Tools
 
