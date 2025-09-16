@@ -37,15 +37,15 @@ When I’m not coding, you’ll find me running and lifting weights 🏋️, and
 Full-stack e-commerce platform built with **React.js**, **Flask**, and **MongoDB**.  
 Features include user authentication, role-based access, Stripe payments, and an admin dashboard.  
 
-[🔗 View Repository](https://github.com/yourusername/ecommerce-project)
+[🔗 View Repository](https://github.com/IsaiahMar/CSET180Final/tree/main)
 
 ---
 
 ### 📦 Auto-Palletization System
 C# .NET application that automates pallet creation and optimizes warehouse logistics.  
 Logic based on customer-specific requirements, with dynamic SQL stored procedures for efficiency.  
-
-[🔗 View Repository](https://github.com/yourusername/palletization-project)
+[🔗 View Repository](https://github.com/MasonScarby/Auto-Palletization-Algorythm-SQL
+)
 
 ---
 
