@@ -68,8 +68,7 @@ Includes account transfers, balance tracking, and integration with inventory man
 
 ### 📊 Stats
 
-![🔗 View Repository]([https://github.com/yourusername/patient-management-system](https://github.com/MasonScarby/OldHomeManagement))
-
+![MasonScarby's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasonScarby&show_icons=true&theme=gruvbox)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
