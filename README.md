@@ -61,7 +61,7 @@ Includes account transfers, balance tracking, and integration with inventory man
 Web app built in **Laravel** for handling patient records, caregiver roles, and supervisor logs.  
 Implements secure authentication, password resets, and role-based dashboards.  
 
-[🔗 View Repository]([https://github.com/yourusername/patient-management-system](https://github.com/MasonScarby/OldHomeManagement))
+[🔗 View Repository]([[https://github.com/yourusername/patient-management-system](https://github.com/MasonScarby/OldHomeManagement](https://github.com/MasonScarby/OldHomeManagement)))
 
 ---
 
