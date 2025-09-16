@@ -49,13 +49,6 @@ Logic based on customer-specific requirements, with dynamic SQL stored procedure
 
 ---
 
-### 📊 Money Management API
-RESTful API for managing financial accounts and transactions.  
-Includes account transfers, balance tracking, and integration with inventory management APIs.  
-
-[🔗 View Repository](https://github.com/yourusername/money-management-api)
-
----
 
 ### 🏥 Patient Management System
 Web app built in **Laravel** for handling patient records, caregiver roles, and supervisor logs.  
@@ -65,6 +58,13 @@ Implements secure authentication, password resets, and role-based dashboards.
 
 ---
 
+### 📊 Money Management API or POS System (WIP)
+RESTful API for managing financial accounts and transactions.  
+Includes account transfers, balance tracking, and integration with inventory management APIs.  
+
+[🔗 View Repository](Work in progress)
+
+---
 
 ### 📊 Stats
 
