@@ -68,7 +68,7 @@ Implements secure authentication, password resets, and role-based dashboards.
 
 ### 📊 Stats
 
-![MasonScarby's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasonScarby&show_icons=true&theme=gruvbox)
+![MasonScarby's GitHub stats]([https://github-readme-stats.vercel.app/api?username=MasonScarby&show_icons=true&theme=gruvbox](https://github.com/yourusername/patient-management-system](https://github.com/MasonScarby/OldHomeManagement))
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
