@@ -33,6 +33,13 @@ When I’m not coding, you’ll find me running and lifting weights 🏋️, and
 ### 📺 Latest YouTube Videos
 ## 🚀 Projects
 
+### 🏥 Patient Management System
+Web app built in **Laravel** for handling patient records, caregiver roles, and supervisor logs.  
+Implements secure authentication, password resets, and role-based dashboards.  
+
+[🔗 View Repository](https://github.com/MasonScarby/OldHomeManagement)
+
+---
 ### 🛒 E-Commerce Website
 Full-stack e-commerce platform built with **React.js**, **Flask**, and **MongoDB**.  
 Features include user authentication, role-based access, Stripe payments, and an admin dashboard.  
@@ -50,13 +57,6 @@ Logic based on customer-specific requirements, with dynamic SQL stored procedure
 ---
 
 
-### 🏥 Patient Management System
-Web app built in **Laravel** for handling patient records, caregiver roles, and supervisor logs.  
-Implements secure authentication, password resets, and role-based dashboards.  
-
-[🔗 View Repository](https://github.com/MasonScarby/OldHomeManagement)
-
----
 
 ### 📊 Money Management API or POS System (WIP)
 RESTful API for managing financial accounts and transactions.  
