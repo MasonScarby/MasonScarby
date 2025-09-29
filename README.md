@@ -30,7 +30,6 @@ When I’m not coding, you’ll find me running and lifting weights 🏋️, and
 
 #
 
-### 📺 Latest YouTube Videos
 ## 🚀 Projects
 
 
