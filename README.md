@@ -64,11 +64,11 @@ Features include user authentication, role-based access, Stripe payments, and an
 
 
 
-### 📊 Money Management API or POS System (WIP)
+### 📊POS System (WIP)
 RESTful API for managing financial accounts and transactions.  
 Includes account transfers, balance tracking, and integration with inventory management APIs.  
 
-[🔗 View Repository](Work in progress)
+[🔗 View Repository](https://github.com/MCSDevelopment/POS-System)
 
 ---
 
