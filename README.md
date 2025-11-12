@@ -55,7 +55,7 @@ A collection of full-stack projects showcasing real-world problem solving across
 Highlights include a patient management system (Laravel), an e-commerce platform (React.js + Flask + MongoDB), a warehouse auto-palletization system (C# .NET + SQL), and a money management API (RESTful).
 Each project emphasizes secure authentication, role-based access, clean UI, and scalable backend design.
 
-[🔗 View Repository](https://github.com/MasonScarby/OldHomeManagement)
+[🔗 View Repository](https://github.com/MasonScarby?tab=repositories&q=&type=&language=&sort=stargazers)
 
 ### 🏥 Patient Management System
 Web app built in **Laravel** for handling patient records, caregiver roles, and supervisor logs.  
