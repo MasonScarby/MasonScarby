@@ -57,6 +57,12 @@ Each project emphasizes secure authentication, role-based access, clean UI, and 
 
 [🔗 View Repository](https://github.com/MasonScarby?tab=repositories&q=&type=&language=&sort=stargazers)
 
+
+###  🏕️  CampCost — Personal Project                                                                                                    
+   
+Web app built with React, Vite, and Tailwind CSS (frontend) and Node.js/Express (backend) that automatically tracks road trip expenses by connecting to your bank via the Plaid API. Transactions are auto-imported, categorized by merchant (fuel, campground, food, etc.), and surfaced in a daily review queue. Uses Supabase for auth (Google OAuth + email) and a PostgreSQL database with row-level security. Planned monetization via Stripe with a free/pro tier model.
+
+
 ### 🏥 Patient Management System
 Web app built in **Laravel** for handling patient records, caregiver roles, and supervisor logs.  
 Implements secure authentication, password resets, and role-based dashboards.  
