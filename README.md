@@ -9,7 +9,6 @@ My current focus is **CampCost**, a SaaS platform that automates road trip and R
 When I’m not coding, you’ll find me running, lifting weights 🏋️, or exploring new places 🌄 — keeping my mindset disciplined, creative, and grounded.
 
 ---
-## 🧰 Languages and Tools
 
 ## 🧰 Languages and Tools
 
