@@ -82,13 +82,11 @@ A full-stack SaaS platform that automatically tracks road trip and RV expenses b
 CampCost ingests transactions, categorizes spending (fuel, food, camping, etc.), and provides users with clear trip-level financial insights.
 
 ### Tech Stack
-- React (Vite + TypeScript)
-- ASP.NET Core Web API (primary backend)
+- React + Vite (JavaScript)
+- Node.js / Express (backend API)
 - Supabase (Auth + PostgreSQL + Row-Level Security)
-- Stripe (subscriptions)
 - Plaid API (bank integrations)
-- Docker
-- GitHub Actions (CI/CD)
+- Stripe (subscriptions — in progress)
 
 ### Features
 - Secure bank linking via Plaid
