@@ -112,7 +112,7 @@ Role-based system for managing patients, caregivers, and supervisor workflows.
 
 ---
 
-### 📦 Warehouse Auto-Palletization System (C# .NET)
+### 📦 Warehouse Auto-Palletization System (C# .NET Snippet)
 Enterprise logistics optimization system for automated pallet planning.
 
 - C# backend logic
@@ -131,12 +131,14 @@ Full-stack e-commerce system with payments and admin dashboard.
 
 ---
 
-### 📊 Retail POS System API
-RESTful API for account and transaction management.
+## 📊 Retail POS System
 
-- Account & balance tracking
-- Transfers between accounts
-- API-first architecture
+Flask-based POS system for managing inventory, customers, and orders with role-based access control.
+
+- Inventory tracking with stock validation
+- Customer loyalty points system
+- Order processing with automatic stock updates
+- REST API + dashboard interface
 
 ---
 
