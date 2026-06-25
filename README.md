@@ -1,7 +1,7 @@
 
 # Mason Scarborough  🚀 
 
-**`Helping by Creating (Developer / Traveler / Gym Goer)`**
+**`Helping by Creating (Developer / Traveler / Junior Fullstack C#.NET )`**
 
 I’m a **junior full-stack developer** passionate about building real-world solutions from the ground up — from planning and design to writing scalable, clean code. My projects range from web apps to APIs and enterprise-level systems, all created with a focus on problem-solving and continuous learning.  
 
