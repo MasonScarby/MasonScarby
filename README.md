@@ -96,7 +96,7 @@ Full-stack e-commerce system with payments and admin dashboard.
 
 ---
 
-### 📊 Financial / POS API (WIP)
+### 📊 Retail POS System API
 RESTful API for account and transaction management.
 
 - Account & balance tracking
