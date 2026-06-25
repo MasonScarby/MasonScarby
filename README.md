@@ -96,6 +96,10 @@ CampCost ingests transactions, categorizes spending (fuel, food, camping, etc.),
 - Authentication & user management
 - Subscription billing (Stripe)
 - Scalable backend API architecture
+- Free / Pro subscription tiers with trip limits                                                                                  
+- Expense adjustment tracking (split costs, reimbursements)                                                                       
+- Campground stop planner with cost estimation                                                                                    
+- Real-time transaction updates (Supabase Realtime)        
 
 ---
 
