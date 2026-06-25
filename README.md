@@ -73,11 +73,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 
 ---
 
-## ⭐ Flagship Project
+## ⭐ Flagship Project                                                                             
+                                     
+### 🏕️  CampCost — SaaS Platform (In Development)
 
-### 🏕️ CampCost — SaaS Platform (In Development)
-
-A full-stack SaaS platform that automatically tracks road trip and RV expenses by securely connecting to users’ bank accounts.
+A full-stack SaaS platform that automatically tracks road trip and RV expenses by securely
+connecting to users' bank accounts.
 
 CampCost ingests transactions, categorizes spending (fuel, food, camping, etc.), and provides users with clear trip-level financial insights.
 
@@ -94,55 +95,61 @@ CampCost ingests transactions, categorizes spending (fuel, food, camping, etc.),
 - Smart expense categorization
 - Trip-based analytics dashboard
 - Authentication & user management
-- Subscription billing (Stripe)
-- Scalable backend API architecture
-- Free / Pro subscription tiers with trip limits                                                                                  
-- Expense adjustment tracking (split costs, reimbursements)                                                                       
-- Campground stop planner with cost estimation                                                                                    
-- Real-time transaction updates (Supabase Realtime)        
+- Free / Pro subscription tiers with trip limits
+- Expense adjustment tracking (split costs, reimbursements)
+- Campground stop planner with cost estimation
+- Real-time transaction updates (Supabase Realtime)
 
 ---
 
 ## 🧩 Other Projects
 
 ### 🏥 Patient Management System (Laravel)
-Role-based system for managing patients, caregivers, and supervisor workflows.
+Full-featured healthcare management platform built with Laravel 10 and Blade templating.
 
-- Authentication + password reset
-- Role-based dashboards
-- CRUD patient records
-
----
-
-### 📦 Warehouse Auto-Palletization System (C# .NET Snippet)
-Enterprise logistics optimization system for automated pallet planning.
-
-- C# backend logic
-- SQL Server integration
-- Business-rule-driven optimization
+- Role-based access control (admin, doctor, employee, patient)
+- Patient registration, records, and medical history logs
+- Appointment scheduling and doctor assignment
+- Prescription tracking
+- Staff roster management
+- Payment processing
+- Admin reporting dashboard
 
 ---
 
-### 🛒 E-Commerce Platform (React + Flask + MongoDB)
-Full-stack e-commerce system with payments and admin dashboard.
+### 📦 Warehouse Auto-Palletization System (C# .NET)
+Enterprise logistics system for automated pallet planning, built for real-world warehouse operations.
 
-- Stripe payments
-- Role-based access control
-- Product & inventory system
-- REST API backend
+- Business-rule-driven palletization engine (customer-specific packing rules)
+- SQL Server integration via ADO.NET
+- DevExpress UI components
+- Handles multi-product sorting, pallet splitting, and locked pallet logic
 
 ---
 
-## 📊 Retail POS System
+### 🛒 E-Commerce Platform (Flask + MySQL)
+Full-stack multi-role e-commerce system built with Flask and Jinja2 templating.
 
-Flask-based POS system for managing inventory, customers, and orders with role-based access control.
+- Role-based access control (customer, vendor, admin)
+- Product catalog with search and filtering (category, size, color)
+- Shopping cart and order processing
+- Order status tracking with admin fulfillment workflow
+- Complaint and support system
+- Product reviews
+
+---
+
+### 📊 Retail POS System (Flask + MySQL)
+Flask-based POS system for managing inventory, customers, and orders with role-based access
+control.
 
 - Inventory tracking with stock validation
 - Customer loyalty points system
 - Order processing with automatic stock updates
-- REST API + dashboard interface
+- Role-based dashboards (customer, employee, admin)
 
 ---
+
 
 ## 📊 GitHub Stats
 
