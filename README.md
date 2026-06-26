@@ -75,7 +75,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 
 ## ⭐ Flagship Project                                                                             
                                      
-### 🏕️  CampCost — SaaS Platform (In Development)
+### 🏕️  CampCost — SaaS Platform (In Development -> Rewrite with C#)
 
 A full-stack SaaS platform that automatically tracks road trip and RV expenses by securely
 connecting to users' bank accounts.
