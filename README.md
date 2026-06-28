@@ -6,7 +6,7 @@ I’m a software engineer focused on building production-ready web applications 
 
 My current focus is **CampCost**, a SaaS platform that automates road trip and RV expense tracking through secure banking integrations, subscriptions, and analytics.
 
-When I’m not coding, you’ll find me running, lifting weights 🏋️, or exploring new places 🌄 — keeping my mindset disciplined, creative, and grounded.
+When I’m not coding, you’ll find me running, lifting weights 🏋️, or exploring new places 🌄, keeping my mindset disciplined, creative, and grounded.
 
 ---
 
